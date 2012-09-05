@@ -1,0 +1,4 @@
+[console_scripts]
+testproj = test.cli:main
+hello = test.cli:hello
+
